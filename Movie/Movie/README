@@ -1,0 +1,9 @@
+About CoreData Codegen options
+------------------------------
+
+When we set the property "Codegen" as "Class Definition" on class section on .xcdatamodeld for our entity, xcode 10 generates automaticaly the subclasses behind the scene (+CoreDataClass.swift and +CoreDataProperties.swift). We don't see those anymore.
+
+Before, we had to set it as "Manual/None", so we have to generate those by our own going to Editor -> Create NSManagedObject Sublass..., then we can see those files (+CoreDataClass.swift and +CoreDataProperties.swif) on project explorer.
+
+Also we can use "Category/Extension" just for generating +CoreDataProperties.swif files. Then we have to create a new file for +CoreDataClass.swift as a Cocoa Touch file that inherit from NSManagedObject.
+
