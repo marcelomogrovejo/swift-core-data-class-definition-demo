@@ -16,11 +16,13 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+
+        // Class Definition
 //        let movie = Movie(context: managedObjectContext)
 //        let name = movie.title
         
         
+        // Category/Extension
         let movie = Movie(context: coreData.persistentContainer.viewContext)
         let movies = movie.getMovieInfo(title: "X-Men", context: coreData.persistentContainer.viewContext)
         

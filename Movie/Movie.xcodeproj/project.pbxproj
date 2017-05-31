@@ -16,6 +16,27 @@
 		168AFE071EDF06A100A9DCAE /* CoreDataStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 168AFE061EDF06A100A9DCAE /* CoreDataStack.swift */; };
 		168AFE091EDF0BBA00A9DCAE /* README in Resources */ = {isa = PBXBuildFile; fileRef = 168AFE081EDF0BBA00A9DCAE /* README */; };
 		168AFE0B1EDF0CE000A9DCAE /* Movie+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 168AFE0A1EDF0CE000A9DCAE /* Movie+CoreDataClass.swift */; };
+		168AFE0F1EDF15FA00A9DCAE /* MovieTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 168AFE0E1EDF15FA00A9DCAE /* MovieTableViewController.swift */; };
+		168AFE111EDF160700A9DCAE /* MovieTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 168AFE101EDF160700A9DCAE /* MovieTableViewCell.swift */; };
+		168AFE151EDF163C00A9DCAE /* movies.json in Resources */ = {isa = PBXBuildFile; fileRef = 168AFE141EDF163C00A9DCAE /* movies.json */; };
+		168AFE171EDF17E200A9DCAE /* UserRating.swift in Sources */ = {isa = PBXBuildFile; fileRef = 168AFE161EDF17E200A9DCAE /* UserRating.swift */; };
+		168AFE1A1EDF199C00A9DCAE /* MovieService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 168AFE191EDF199C00A9DCAE /* MovieService.swift */; };
+		169C7FB31EDF21EF000D6A5C /* batman.png in Resources */ = {isa = PBXBuildFile; fileRef = 169C7FA31EDF21EF000D6A5C /* batman.png */; };
+		169C7FB41EDF21EF000D6A5C /* blackstar.png in Resources */ = {isa = PBXBuildFile; fileRef = 169C7FA41EDF21EF000D6A5C /* blackstar.png */; };
+		169C7FB51EDF21EF000D6A5C /* harrypotter.png in Resources */ = {isa = PBXBuildFile; fileRef = 169C7FA51EDF21EF000D6A5C /* harrypotter.png */; };
+		169C7FB61EDF21EF000D6A5C /* jurassic.png in Resources */ = {isa = PBXBuildFile; fileRef = 169C7FA61EDF21EF000D6A5C /* jurassic.png */; };
+		169C7FB71EDF21EF000D6A5C /* lordoftherings.png in Resources */ = {isa = PBXBuildFile; fileRef = 169C7FA71EDF21EF000D6A5C /* lordoftherings.png */; };
+		169C7FB81EDF21EF000D6A5C /* madmax.png in Resources */ = {isa = PBXBuildFile; fileRef = 169C7FA81EDF21EF000D6A5C /* madmax.png */; };
+		169C7FB91EDF21EF000D6A5C /* pirates.png in Resources */ = {isa = PBXBuildFile; fileRef = 169C7FA91EDF21EF000D6A5C /* pirates.png */; };
+		169C7FBA1EDF21EF000D6A5C /* pixar.png in Resources */ = {isa = PBXBuildFile; fileRef = 169C7FAA1EDF21EF000D6A5C /* pixar.png */; };
+		169C7FBB1EDF21EF000D6A5C /* startrek.png in Resources */ = {isa = PBXBuildFile; fileRef = 169C7FAB1EDF21EF000D6A5C /* startrek.png */; };
+		169C7FBC1EDF21EF000D6A5C /* starwars.png in Resources */ = {isa = PBXBuildFile; fileRef = 169C7FAC1EDF21EF000D6A5C /* starwars.png */; };
+		169C7FBD1EDF21EF000D6A5C /* ted2.png in Resources */ = {isa = PBXBuildFile; fileRef = 169C7FAD1EDF21EF000D6A5C /* ted2.png */; };
+		169C7FBE1EDF21EF000D6A5C /* terminator.png in Resources */ = {isa = PBXBuildFile; fileRef = 169C7FAE1EDF21EF000D6A5C /* terminator.png */; };
+		169C7FBF1EDF21EF000D6A5C /* transformer.png in Resources */ = {isa = PBXBuildFile; fileRef = 169C7FAF1EDF21EF000D6A5C /* transformer.png */; };
+		169C7FC01EDF21EF000D6A5C /* ultimatepixar.png in Resources */ = {isa = PBXBuildFile; fileRef = 169C7FB01EDF21EF000D6A5C /* ultimatepixar.png */; };
+		169C7FC11EDF21EF000D6A5C /* xmen.png in Resources */ = {isa = PBXBuildFile; fileRef = 169C7FB11EDF21EF000D6A5C /* xmen.png */; };
+		169C7FC21EDF21EF000D6A5C /* yellowstar.png in Resources */ = {isa = PBXBuildFile; fileRef = 169C7FB21EDF21EF000D6A5C /* yellowstar.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +51,27 @@
 		168AFE061EDF06A100A9DCAE /* CoreDataStack.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CoreDataStack.swift; sourceTree = "<group>"; };
 		168AFE081EDF0BBA00A9DCAE /* README */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
 		168AFE0A1EDF0CE000A9DCAE /* Movie+CoreDataClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Movie+CoreDataClass.swift"; sourceTree = "<group>"; };
+		168AFE0E1EDF15FA00A9DCAE /* MovieTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MovieTableViewController.swift; sourceTree = "<group>"; };
+		168AFE101EDF160700A9DCAE /* MovieTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MovieTableViewCell.swift; sourceTree = "<group>"; };
+		168AFE141EDF163C00A9DCAE /* movies.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = movies.json; sourceTree = "<group>"; };
+		168AFE161EDF17E200A9DCAE /* UserRating.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserRating.swift; sourceTree = "<group>"; };
+		168AFE191EDF199C00A9DCAE /* MovieService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MovieService.swift; sourceTree = "<group>"; };
+		169C7FA31EDF21EF000D6A5C /* batman.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = batman.png; sourceTree = "<group>"; };
+		169C7FA41EDF21EF000D6A5C /* blackstar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = blackstar.png; sourceTree = "<group>"; };
+		169C7FA51EDF21EF000D6A5C /* harrypotter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = harrypotter.png; sourceTree = "<group>"; };
+		169C7FA61EDF21EF000D6A5C /* jurassic.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = jurassic.png; sourceTree = "<group>"; };
+		169C7FA71EDF21EF000D6A5C /* lordoftherings.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lordoftherings.png; sourceTree = "<group>"; };
+		169C7FA81EDF21EF000D6A5C /* madmax.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = madmax.png; sourceTree = "<group>"; };
+		169C7FA91EDF21EF000D6A5C /* pirates.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pirates.png; sourceTree = "<group>"; };
+		169C7FAA1EDF21EF000D6A5C /* pixar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pixar.png; sourceTree = "<group>"; };
+		169C7FAB1EDF21EF000D6A5C /* startrek.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = startrek.png; sourceTree = "<group>"; };
+		169C7FAC1EDF21EF000D6A5C /* starwars.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = starwars.png; sourceTree = "<group>"; };
+		169C7FAD1EDF21EF000D6A5C /* ted2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ted2.png; sourceTree = "<group>"; };
+		169C7FAE1EDF21EF000D6A5C /* terminator.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = terminator.png; sourceTree = "<group>"; };
+		169C7FAF1EDF21EF000D6A5C /* transformer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = transformer.png; sourceTree = "<group>"; };
+		169C7FB01EDF21EF000D6A5C /* ultimatepixar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ultimatepixar.png; sourceTree = "<group>"; };
+		169C7FB11EDF21EF000D6A5C /* xmen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = xmen.png; sourceTree = "<group>"; };
+		169C7FB21EDF21EF000D6A5C /* yellowstar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = yellowstar.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,7 +104,12 @@
 		168AFDF01EDF066700A9DCAE /* Movie */ = {
 			isa = PBXGroup;
 			children = (
-				168AFE061EDF06A100A9DCAE /* CoreDataStack.swift */,
+				169C7FA21EDF21D8000D6A5C /* images */,
+				168AFE121EDF161300A9DCAE /* controller */,
+				168AFE131EDF161B00A9DCAE /* view */,
+				168AFE181EDF198B00A9DCAE /* model */,
+				168AFE161EDF17E200A9DCAE /* UserRating.swift */,
+				168AFE141EDF163C00A9DCAE /* movies.json */,
 				168AFDF11EDF066700A9DCAE /* AppDelegate.swift */,
 				168AFDF31EDF066700A9DCAE /* ViewController.swift */,
 				168AFDF51EDF066700A9DCAE /* Main.storyboard */,
@@ -71,9 +118,57 @@
 				168AFE001EDF066700A9DCAE /* Info.plist */,
 				168AFDF81EDF066700A9DCAE /* Movie.xcdatamodeld */,
 				168AFE081EDF0BBA00A9DCAE /* README */,
-				168AFE0A1EDF0CE000A9DCAE /* Movie+CoreDataClass.swift */,
 			);
 			path = Movie;
+			sourceTree = "<group>";
+		};
+		168AFE121EDF161300A9DCAE /* controller */ = {
+			isa = PBXGroup;
+			children = (
+				168AFE0E1EDF15FA00A9DCAE /* MovieTableViewController.swift */,
+			);
+			name = controller;
+			sourceTree = "<group>";
+		};
+		168AFE131EDF161B00A9DCAE /* view */ = {
+			isa = PBXGroup;
+			children = (
+				168AFE101EDF160700A9DCAE /* MovieTableViewCell.swift */,
+			);
+			name = view;
+			sourceTree = "<group>";
+		};
+		168AFE181EDF198B00A9DCAE /* model */ = {
+			isa = PBXGroup;
+			children = (
+				168AFE0A1EDF0CE000A9DCAE /* Movie+CoreDataClass.swift */,
+				168AFE061EDF06A100A9DCAE /* CoreDataStack.swift */,
+				168AFE191EDF199C00A9DCAE /* MovieService.swift */,
+			);
+			name = model;
+			sourceTree = "<group>";
+		};
+		169C7FA21EDF21D8000D6A5C /* images */ = {
+			isa = PBXGroup;
+			children = (
+				169C7FA31EDF21EF000D6A5C /* batman.png */,
+				169C7FA41EDF21EF000D6A5C /* blackstar.png */,
+				169C7FA51EDF21EF000D6A5C /* harrypotter.png */,
+				169C7FA61EDF21EF000D6A5C /* jurassic.png */,
+				169C7FA71EDF21EF000D6A5C /* lordoftherings.png */,
+				169C7FA81EDF21EF000D6A5C /* madmax.png */,
+				169C7FA91EDF21EF000D6A5C /* pirates.png */,
+				169C7FAA1EDF21EF000D6A5C /* pixar.png */,
+				169C7FAB1EDF21EF000D6A5C /* startrek.png */,
+				169C7FAC1EDF21EF000D6A5C /* starwars.png */,
+				169C7FAD1EDF21EF000D6A5C /* ted2.png */,
+				169C7FAE1EDF21EF000D6A5C /* terminator.png */,
+				169C7FAF1EDF21EF000D6A5C /* transformer.png */,
+				169C7FB01EDF21EF000D6A5C /* ultimatepixar.png */,
+				169C7FB11EDF21EF000D6A5C /* xmen.png */,
+				169C7FB21EDF21EF000D6A5C /* yellowstar.png */,
+			);
+			name = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -136,10 +231,27 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				168AFE151EDF163C00A9DCAE /* movies.json in Resources */,
+				169C7FBF1EDF21EF000D6A5C /* transformer.png in Resources */,
+				169C7FB81EDF21EF000D6A5C /* madmax.png in Resources */,
+				169C7FC01EDF21EF000D6A5C /* ultimatepixar.png in Resources */,
+				169C7FBC1EDF21EF000D6A5C /* starwars.png in Resources */,
 				168AFE091EDF0BBA00A9DCAE /* README in Resources */,
+				169C7FBB1EDF21EF000D6A5C /* startrek.png in Resources */,
+				169C7FB31EDF21EF000D6A5C /* batman.png in Resources */,
+				169C7FB71EDF21EF000D6A5C /* lordoftherings.png in Resources */,
+				169C7FB41EDF21EF000D6A5C /* blackstar.png in Resources */,
+				169C7FB91EDF21EF000D6A5C /* pirates.png in Resources */,
+				169C7FC11EDF21EF000D6A5C /* xmen.png in Resources */,
+				169C7FC21EDF21EF000D6A5C /* yellowstar.png in Resources */,
 				168AFDFF1EDF066700A9DCAE /* LaunchScreen.storyboard in Resources */,
+				169C7FBD1EDF21EF000D6A5C /* ted2.png in Resources */,
 				168AFDFC1EDF066700A9DCAE /* Assets.xcassets in Resources */,
+				169C7FB51EDF21EF000D6A5C /* harrypotter.png in Resources */,
+				169C7FBE1EDF21EF000D6A5C /* terminator.png in Resources */,
 				168AFDF71EDF066700A9DCAE /* Main.storyboard in Resources */,
+				169C7FB61EDF21EF000D6A5C /* jurassic.png in Resources */,
+				169C7FBA1EDF21EF000D6A5C /* pixar.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -152,9 +264,13 @@
 			files = (
 				168AFDF41EDF066700A9DCAE /* ViewController.swift in Sources */,
 				168AFDFA1EDF066700A9DCAE /* Movie.xcdatamodeld in Sources */,
+				168AFE111EDF160700A9DCAE /* MovieTableViewCell.swift in Sources */,
+				168AFE0F1EDF15FA00A9DCAE /* MovieTableViewController.swift in Sources */,
 				168AFDF21EDF066700A9DCAE /* AppDelegate.swift in Sources */,
 				168AFE0B1EDF0CE000A9DCAE /* Movie+CoreDataClass.swift in Sources */,
+				168AFE1A1EDF199C00A9DCAE /* MovieService.swift in Sources */,
 				168AFE071EDF06A100A9DCAE /* CoreDataStack.swift in Sources */,
+				168AFE171EDF17E200A9DCAE /* UserRating.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
